@@ -1,0 +1,1 @@
+const NamedComponent = ({name = 'Name'}) => <p>My name is {name}</p>;
